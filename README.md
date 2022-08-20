@@ -3,9 +3,9 @@
 #### Project carried out as part of the praktycznypython.pl course. ####
 
 ### List of contents: ###
-1. Description of the program operation.
-2. Python modules used.
-3. Tests.
+1. Description of the program operation
+2. Python modules used
+3. Tests
 
 ![Picture](https://th.bing.com/th/id/R.3880091120f9e25c09d48747f5434e2e?rik=ciMr1g89pDmmKg&pid=ImgRaw&r=0)
 Source: *https://th.bing.com/th/id/R.3880091120f9e25c09d48747f5434e2e?rik=ciMr1g89pDmmKg&pid=ImgRaw&r=0*
@@ -20,11 +20,11 @@ Source: *https://th.bing.com/th/id/R.3880091120f9e25c09d48747f5434e2e?rik=ciMr1g
 
 ### 2. Python modules used ###
 
-- click
-- lxml.html 
-- pytest
-- requests
-- sys
+- ```click```
+- ```lxml.html``` 
+- ```pytest```
+- ```requests```
+- ```sys```
 
 ### 3. Tests ###
 
